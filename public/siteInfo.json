@@ -95,6 +95,24 @@
                 "category": "Site da melhor empresa de armas biológicas",
                 "image": "umbrella.jpg",
                 "url": "www.umbrellaCorp.com"
+            },
+            {
+                "title": "Futur1s",
+                "category": "Site da melhor empresa de tecnologia",
+                "image": "futur1s.jpg",
+                "url": "www.futur1s.com"
+            },
+            {
+                "title": "Proffy",
+                "category": "O site que conecta professores e alunos",
+                "image": "proffy.png",
+                "url": "https://github.com/gabriel1997castro/proffy"
+            },
+            {
+                "title": "Proffy Mobile",
+                "category": "O app que conecta professores e alunos",
+                "image": "proffyMobile.jpg",
+                "url": "https://github.com/gabriel1997castro/proffy"
             }
         ]
     }
