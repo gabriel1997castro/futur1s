@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat top center;
+   background: #161415 url(../images/header-background-1.jpg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -169,7 +169,7 @@ ul#nav li a {
    line-height: 32px;
 	text-decoration: none;
    text-align: left;
-   color: #fff;
+   color: #FFF;
 
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
@@ -177,6 +177,7 @@ ul#nav li a {
 	-ms-transition: color .2s ease-in-out;
 	transition: color .2s ease-in-out;
 }
+
 
 ul#nav li a:active { background-color: transparent !important; }
 ul#nav li.current a { color: #F06000; }

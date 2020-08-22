@@ -2,7 +2,7 @@ import React from 'react';
 
 function Header(props) {
    if (props.data) {
-      var name = props.data.name;
+      var companyName = props.data.companyName;
       var slogan = props.data.slogan;
       var networks = props.data.social.map(function (network) {
          return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
@@ -30,7 +30,7 @@ function Header(props) {
 
          <div className="row banner">
             <div className="banner-text">
-               <h1 className="responsive-headline">{name}</h1>
+               <h1 className="responsive-headline">{companyName}</h1>
                {/* <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3> */}
                <h3>{slogan}</h3>
                <hr />

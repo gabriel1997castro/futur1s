@@ -1,19 +1,19 @@
 {
     "main": {
-        "name": "FUTUR1S",
+        "companyName": "FUTUR1S",
         "slogan": "With coffee and a laptop we dev the future.",
         "occupation": "Desenvolvimento de Software",
         "description": "Descrição",
-        "image": "profilepic.jpg",
-        "bio": "We are a software development company with developers fascinated by what they do. There is no focus on any specific topic, but we like challenges that can change people's lives and bring us new knowledge.",
+        "image": "header-background.jpg",
+        "bio": "Somos uma equipe de desenvolvimento de tecnologia com pessoas apaixonadas pelo que fazem. Nosso principal objetivo é desenvolver produtos que trazem mudanças incríveis na vida das pessoas.",
         "contactmessage": "Mensagem de contato",
-        "email": "youremailhere@gmail.com",
-        "phone": "555-555-5555",
+        "email": "futur1s@gmail.com",
+        "phone": "+55 61 982151307",
         "address": {
             "street": "",
             "city": "Brasília",
             "state": "Distrito federal",
-            "zip": "(Your Zip/Postal Code)"
+            "zip": "70730536"
         },
         "website": "http://www.futur1s.com",
         "social": [
