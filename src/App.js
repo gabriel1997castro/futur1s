@@ -18,7 +18,7 @@ class App extends Component {
 
   }
 
-  getResumeData(){
+  getSiteData(){
     $.ajax({
       url:'/siteInfo.json',
       dataType:'json',
@@ -34,7 +34,7 @@ class App extends Component {
   }
 
   componentDidMount(){
-    this.getResumeData();
+    this.getSiteData();
   }
 
   render() {
