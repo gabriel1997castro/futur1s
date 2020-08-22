@@ -1,0 +1,101 @@
+{
+    "main": {
+        "name": "FUTUR1S",
+        "slogan": "With coffee and a laptop we dev the future.",
+        "occupation": "Desenvolvimento de Software",
+        "description": "Descrição",
+        "image": "profilepic.jpg",
+        "bio": "We are a software development company with developers fascinated by what they do. There is no focus on any specific topic, but we like challenges that can change people's lives and bring us new knowledge.",
+        "contactmessage": "Mensagem de contato",
+        "email": "youremailhere@gmail.com",
+        "phone": "555-555-5555",
+        "address": {
+            "street": "",
+            "city": "Brasília",
+            "state": "Distrito federal",
+            "zip": "(Your Zip/Postal Code)"
+        },
+        "website": "http://www.futur1s.com",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "http://facebook.com/",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "http://instagram.com/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "http://github.com/futur1s",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "ourteam": {
+        "skillmessage": "Mensagem sobre habilidades da empresa",
+        "education": [
+            {
+                "school": "University?",
+                "degree": "Masters em explodir laboratórios",
+                "graduated": "Abril 2007",
+                "description": "Descreva experiência na universidade"
+            }
+        ],
+        "work": [
+            {
+                "company": "Awesome Design Studio",
+                "title": "Senior UX Designerrrrrr ",
+                "years": "Março 2010 - presente",
+                "description": "Descreva o belíssimo trabalho"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Git",
+                "level": "60%"
+            },
+            {
+                "name": "Illustrator",
+                "level": "55%"
+            },
+            {
+                "name": "ReactJs",
+                "level": "50%"
+            },
+            {
+                "name": "CSS",
+                "level": "90%"
+            },
+            {
+                "name": "HTML5",
+                "level": "80%"
+            },
+            {
+                "name": "VueJs",
+                "level": "50%"
+            },
+            {
+                "name": "MongoDB",
+                "level": "80%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "UmbrellaCorp",
+                "category": "Site da melhor empresa de armas biológicas",
+                "image": "umbrella.jpg",
+                "url": "www.umbrellaCorp.com"
+            }
+        ]
+    }
+}
