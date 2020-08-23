@@ -40,22 +40,30 @@
         ]
     },
     "ourteam": {
-        "skillmessage": "Mensagem sobre habilidades da empresa",
-        "education": [
+        "skillmessage": "Estas são algumas das habilidades de nossos desenvolvedores:",
+        "devs": [
             {
-                "school": "University?",
+                "name": "Gabriel Castro",
+                "job": "Desenvolvedor Full-Stack",
                 "degree": "Masters em explodir laboratórios",
                 "graduated": "Abril 2007",
-                "description": "Descreva experiência na universidade"
-            }
-        ],
-        "work": [
+                "description": "Gosta de robótica, desenvolvimento mobile e de machine learning"
+            },
             {
-                "company": "Awesome Design Studio",
-                "title": "Senior UX Designerrrrrr ",
-                "years": "Março 2010 - presente",
-                "description": "Descreva o belíssimo trabalho"
+                "name": "Lucas Schiavine",
+                "job": "Desenvolvedor Full-Stack",
+                "degree": "Masters em explodir laboratórios",
+                "graduated": "Abril 2007",
+                "description": "Sou o cara do google slides, faço todo design lá"
+            },
+            {
+                "name": "Thamires Pontes",
+                "job": "Desenvolvedor Full-Stack",
+                "degree": "Masters em explodir laboratórios",
+                "graduated": "Abril 2007",
+                "description": "Gosto de desenvolver"
             }
+
         ],
         "skills": [
             {
@@ -68,7 +76,11 @@
             },
             {
                 "name": "ReactJs",
-                "level": "50%"
+                "level": "90%"
+            },
+            {
+                "name": "React Native",
+                "level": "90%"
             },
             {
                 "name": "CSS",
@@ -79,8 +91,8 @@
                 "level": "80%"
             },
             {
-                "name": "VueJs",
-                "level": "50%"
+                "name": "Assembly Risc-V",
+                "level": "80%"
             },
             {
                 "name": "MongoDB",
