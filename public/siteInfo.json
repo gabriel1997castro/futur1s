@@ -47,21 +47,24 @@
                 "job": "Desenvolvedor Full-Stack",
                 "degree": "Masters em explodir laboratórios",
                 "graduated": "Abril 2007",
-                "description": "Gosta de robótica, desenvolvimento mobile e de machine learning"
+                "description": "Gosta de robótica, desenvolvimento mobile e de machine learning",
+                "photo": "https://avatars2.githubusercontent.com/u/16416999?s=460&u=778691036ea1a36ca1edfa24d177a4b65845b610&v=4"
             },
             {
                 "name": "Lucas Schiavine",
                 "job": "Desenvolvedor Full-Stack",
                 "degree": "Masters em explodir laboratórios",
                 "graduated": "Abril 2007",
-                "description": "Sou o cara do google slides, faço todo design lá"
+                "description": "Sou o cara do google slides, faço todo design lá",
+                "photo": "https://avatars1.githubusercontent.com/u/13675790?s=460&u=dab0b6d4a9de364bb90f9ca40c26d6772fd0e8c1&v=4"
             },
             {
                 "name": "Thamires Pontes",
                 "job": "Desenvolvedor Full-Stack",
                 "degree": "Masters em explodir laboratórios",
                 "graduated": "Abril 2007",
-                "description": "Gosto de desenvolver"
+                "description": "Gosto de desenvolver",
+                "photo": "https://images.pexels.com/photos/185517/pexels-photo-185517.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
             }
 
         ],

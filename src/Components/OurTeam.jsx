@@ -6,6 +6,9 @@ function OurTeam(props) {
     var devs = props.data.devs.map(function (dev) {
       return (
         <div className="row education">
+          <div className="three columns">
+               <img src={dev.photo} alt={`Imagem de ${dev.name}`} />
+          </div>
           <div className="three columns header-col">
             <h1><span>{dev.name}</span></h1>
           </div>
